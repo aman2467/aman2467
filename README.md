@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Aman Kumar
-System Software Engineer
+I'm Aman Kumar, a system software engineer, who writes software for fun and living.
 
 ![](https://lh5.googleusercontent.com/RWyqHBjZhQrj9KtpPXy9AIZCoNtWNbUZ3Qu8uIZiDe6PG3FfiQdin3eti63wnlHFyvXiHZ0tPM3F-e1mxwFo4RBlNJODogkH-PRcePikg_Nm8pKkw1uqalD7g8fT5ZfuF4QqRaKWSmjILHWsHgoyNos "horizontal line")
 
